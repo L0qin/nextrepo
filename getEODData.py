@@ -39,4 +39,4 @@ try:
 except NameError:
 	print('Error:',NameError)
 except:
-	print('Error somewhere')
+	print("this one got error")
