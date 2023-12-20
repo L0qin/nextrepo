@@ -37,9 +37,9 @@ try:
 	os.remove(os.path.join('D:','Ami_ImportEOD_realtime.exe'))
 	os.remove(os.path.join('D:','cophieu68_EOD_realtime.zip'))
 except NameError:
-	print('Error:',NameError)
+	print('Error name:',NameError)
 except:
-	print("this one got error")
+	print("Unknown error")
     
    #next comment
    #second comment
