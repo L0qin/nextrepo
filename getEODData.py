@@ -41,6 +41,3 @@ except NameError:
 except:
 	print("Unknown error")
     
-   #next comment
-   #second comment
-   #third comment
